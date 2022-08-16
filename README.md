@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+LinkedIn : https://www.linkedin.com/in/srivishnu-thatha
+Itch.io : https://srivishnu2002.itch.io/
+Spotify : https://open.spotify.com/artist/25O7sG9dI3T2avcoolqzeY?si=MhqR-zmlSaivKPzj5xzRrA&utm_source=copy-link
+
+
 <!--
 **srivishnu2002/srivishnu2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
