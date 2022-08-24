@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-LinkedIn : https://www.linkedin.com/in/srivishnu-thatha <br>
-Itch.io  : <br> https://srivishnu2002.itch.io/ <br>
-Spotify : https://open.spotify.com/artist/25O7sG9dI3T2avcoolqzeY?si=MhqR-zmlSaivKPzj5xzRrA&utm_source=copy-link 
-
+https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge
 
 <!--
 **srivishnu2002/srivishnu2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
