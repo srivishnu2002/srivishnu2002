@@ -31,7 +31,7 @@ Developing video games with the Unity Engine is what I'm currently passionate ab
 
 <br>
 
-- 🎮: I’m currently Interning as a Unity Developer (VR) for VifrX.
+- 🎮: I’m currently Interning as a Unity Developer (VR) at VifrX.
 
 - 🎵: I also make piano arrangements, and produce music with FL studio.
 
