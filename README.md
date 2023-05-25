@@ -25,13 +25,13 @@ Hi there, I'm Srivishnu Thatha
 ---
 
 ### :man_technologist: About Me :
-I am a University Student pursuing an Mtech Integrated degree (Software Engineering) in VIT Vellore.
+I am a University Student pursuing an Mtech Integrated degree (Software Engineering) at VIT Vellore.
 
-Developing video games with the Unity Engine is what I'm currently passionate about.
+My current passion is Video Game Development
 
 <br>
 
-- 🎮: I have done an Internship as a Unity Developer (VR) at VifrX, and I'm currently looking for internships!
+- 🎮: I have completed 2 Game development Internships, and I am currently doing my 3rd and 4th internships.     
 
 - 🎵: I also make piano arrangements, and produce music with FL studio.
 
