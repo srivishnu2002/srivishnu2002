@@ -35,7 +35,7 @@ My current passion is Video Game Development
 
 - 🎵: I also make piano arrangements, and produce music with FL studio.
 
-- :zap: In my free time, I work on my own projects (currently working on a 2D platformer game).
+- :zap: In my free time, I like to work on my own projects and produce music 
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Srivishnu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/srivishnu-thatha)
 
