@@ -25,9 +25,7 @@ Hi there, I'm Srivishnu Thatha
 ---
 
 ### :man_technologist: About Me :
-I am a University Student pursuing an Mtech Integrated degree (Software Engineering) at VIT Vellore.
-
-My current passion is Video Game Development
+I am a University Student at VIT Vellore, pursuing an Mtech Integrated degree (Software Engineering).
 
 <br>
 
