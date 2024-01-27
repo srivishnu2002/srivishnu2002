@@ -31,11 +31,9 @@ My current passion is Video Game Development
 
 <br>
 
-- 🎮: I have completed 2 Game development Internships, and I am currently doing my 3rd and 4th internships.     
+- 🎮: I have completed 3 Game-Dev Internships. I am also an online Game-Dev (Unity Engine) tutor at CodingZen     
 
-- 🎵: I also make piano arrangements, and produce music with FL studio.
-
-- :zap: In my free time, I like to work on my own projects and produce music 
+- 🎵: I make piano arrangements of my favourite songs, and produce music with FL studio DAW. 
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Srivishnu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/srivishnu-thatha)
 
